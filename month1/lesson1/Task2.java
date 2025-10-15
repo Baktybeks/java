@@ -10,7 +10,7 @@ public class Task2 {
     double averageCarSpeed;
 
     char separatorSymbol;
-    boolean lightsOn;
+    boolean lightsOn; //is are has желательно
 
     String filmTitle;
 
