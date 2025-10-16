@@ -1,0 +1,10 @@
+{
+  "editor.defaultFormatter": "redhat.java",
+  "editor.formatOnSave": true,
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java",
+    "editor.formatOnSave": true
+  },
+  "java.format.settings.url": "file:///home/happy/.config/java-style/eclipse-java-google-style.xml",
+  "java.format.settings.profile": "GoogleStyle"
+}
