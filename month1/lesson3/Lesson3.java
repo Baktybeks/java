@@ -1,4 +1,3 @@
-package month1.lesson3;
 import java.util.Arrays;
 
 public class Lesson3 {
